@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+html {
+  font-size: 62.5%;
+  color: #333;
+  box-sizing: border-box;
+  width: 100%;
+}
+body {
+  font-family: fot-tsukuardgothic-std, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  background-color:#ebe8e1;
+  color:#333;
+}
+.hidden {
+  display: none;
+}
+ul, ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
